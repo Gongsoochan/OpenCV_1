@@ -1,4 +1,4 @@
-# OpenCV_1
+# OpenCV_study_1
 Date : 2023.09.24
 
 Data : -
